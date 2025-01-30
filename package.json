@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "适用于需要将上传的图片重中间一分为二进行裁切处理后再上传的场景",
   "type": "module",
-  "main": "dist/index.min.js",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
