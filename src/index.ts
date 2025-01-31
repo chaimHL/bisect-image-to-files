@@ -1,5 +1,3 @@
-
-
 /**
  * @param imgFile 图片文件
  * @returns 从中间一分为 2 后，生成的图片文件数组
